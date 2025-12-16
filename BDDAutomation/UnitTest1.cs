@@ -24,7 +24,7 @@ namespace BDDAutomation
             username.SendKeys("ravijha");
             Thread.Sleep(2000);
             IWebElement password = driver.FindElement(By.Name("password"));
-            password.SendKeys("ravijha");
+            password.SendKeys("ravijha123");
             Thread.Sleep(3000);
             IWebElement loginBtn = driver.FindElement(By.Name("submit"));
             loginBtn.Click();
