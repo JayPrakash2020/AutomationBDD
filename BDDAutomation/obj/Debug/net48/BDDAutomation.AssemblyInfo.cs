@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BDDAutomation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87bfb2f28c8932b8f2c30e7db8550b2f489124da")]
 [assembly: System.Reflection.AssemblyProductAttribute("BDDAutomation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BDDAutomation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

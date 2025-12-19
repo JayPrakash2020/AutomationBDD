@@ -5,3 +5,6 @@
 *.vsidx
 *.suo
 
+*.wsuo
+/.vs/BDDTesting/v17
+*.v2
